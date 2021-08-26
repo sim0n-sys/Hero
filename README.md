@@ -17,6 +17,7 @@ The project does not have any issues but please be sure to report any if found.
 * Maven
 * Html
 * Css
+* Handlebar
 
 
 ### License
