@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous|Teko&display=swap');
+
+* {
+  margin: 0px;
+  padding: 0px ;
+  box-sizing: border-box;
+}
+.fit {
+   color: blue;
+}
+
+body {
+  background-color: white;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  background-attachment: fixed;
+}
+
+.img-fluid {
+  width: 22%;
+}
+
+.container-fluid {
+  margin-top: 45vh;
+}
+
+.flipInX {
+  font-family: "Righteous";
+  color: white;
+}
+
+.lightSpeedIn {
+  color: white;
+  font-size: 22px;
+}
+
+.modal-content {
+  background-color: rgba(255, 255, 255, 0.89);
+}
+
+.squads {
+  margin: auto;
+  margin-bottom:2%;
+  width: 90%;
+}
+
+.hd-squads {
+  font-family: "Righteous";
+  color: white;
+  text-decoration: underline;
+  padding-bottom: 5%;
+  padding-top: 3%;
+}
+
+.card-body {
+  color: white;
+}
+
+.card-title {
+  text-decoration: underline;
+  font-family: "Teko";
+}
+
+.card-back {
+  background-color: rgba(105, 105, 105, 1);
+}
+
+.theme {
+  font-size: 15px;
+  font-style: italic;
+}
+
+.success {
+  color: white;
+  margin-top: 10%;
+}
+
+.success p {
+  font-size: 22px;
+}
+
+.hd-success {
+  font-family: "Righteous";
+}
+
+.hero-run {
+  width: 27%;
+}
+
+.hero-btns {
+  color: white;
+  margin-top: 20%;
+}
+.delete{
+color:orange;
+}
+
+.none{
+margin-top:20%;
+color:white;
+}
+
+.fa-arrow-left {
+  padding: 25px;
+  font-size: 27px;
+  color: white;
+}
+.rotateInUpLeft{
+margin-top:-6%;
