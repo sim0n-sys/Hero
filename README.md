@@ -20,7 +20,7 @@ The project does not have any issues but please be sure to report any if found.
 * Handlebar
 
 
-### License
+
 Copyright SIMON MUNGAI 2021
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
